@@ -1,3 +1,9 @@
+"""
+Project Specification
+
+This document outlines the specifications for a Python-based project that manages GitHub interactions, handles a database, and serves a web interface. It includes details on the project structure, functionalities such as environment setup, database management, GitHub API interaction, web server setup, and testing, along with additional notes on best practices and project organization.
+"""
+
 # Project Specification
 
 ## Project Overview
